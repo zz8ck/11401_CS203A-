@@ -1,6 +1,4 @@
 ## 11401_CS203A-
- 
-## 11401_CS203A-
 
 ## 📚 Course Information
 - Course Name: CS203A
